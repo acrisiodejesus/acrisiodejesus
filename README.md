@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Acrisio 👋
 
-<!--
-**acrisiodejesus/acrisiodejesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack JavaScript developer from Mozambique.
 
-Here are some ideas to get you started:
+I specialize in building modern web and mobile applications using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React
+Next.js
+React Native
+Node.js
+
+## What I build
+
+• SaaS dashboards  
+• Web applications  
+• Mobile apps  
+• MVPs for startups
+
+## Featured Projects
+
+Plant Care App  
+Mobile application that helps users manage plants and watering reminders.
+
+Podcastr  
+Podcast streaming platform built with Next.js.
+
+Proffy  
+Online learning platform connecting students with teachers.
+
+## Tech Stack
+
+JavaScript  
+TypeScript  
+React  
+Next.js  
+React Native  
+Node.js
+
+## Links
+
+LinkedIn  
+Portfolio  
+Email
