@@ -18,9 +18,8 @@ I specialize in transforming complex business requirements into scalable softwar
 ### 💻 Technical Arsenal
 
 **Architecture & Backend:** System Design, API Development, Web Scraping, Automation Scripts  
-**Game Engine:** Unity3D, C#, Animation Rigging, Custom Physics  
 **Frontend & Mobile:** Web Development, Mobile Interfaces (React Native/TypeScript)  
-**Hardware (Bonus for IoT):** Circuit Design, Microcontrollers, Component Integration
+
 
 ---
 
