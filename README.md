@@ -1,46 +1,56 @@
-# Hi there, I'm Acrisio de Jesus 👋
+# Hi there, I'm Acrísio de Jesus 👋
 
-### Software Engineer | SaaS Architect | Game Developer
+### Full Stack Software Engineer (React • React Native • Node.js)
 
-I specialize in transforming complex business requirements into scalable software solutions. As a freelance developer available on **Upwork** and **Fiverr**, I partner with businesses and individuals to automate workflows, build robust management systems, and engineer engaging interactive experiences.
+I am a Full Stack Software Engineer based in Mozambique, building production-ready web and mobile applications since 2022. I specialize in taking projects from concept to deployment, focusing on maintainable architecture, scalable APIs, and seamless user experiences.
+
+Currently available for international freelance opportunities on **Upwork** and **Fiverr**.
 
 ---
 
-### 🚀 What I Bring to Your Project
+### 🚀 How I Add Value to Your Business
 
-* **SaaS & System Architecture:** Development of full-stack management platforms with complex modules (Administrative, Financial, Academic). *Currently architecting Hive.*
-* **Business Automation:** Creating automated solutions for complex processes, such as tax and social security payment automations via web scraping. *Creator of the Facture platform.*
-* **Game Development (Unity/C#):** Building robust gameplay mechanics, third-person character controllers, and state machines for interactive applications and games.
-* **Hardware Integration & IoT:** Deep understanding of electronics, circuit components, and motor drivers, allowing for unique software-to-hardware integrations.
+* **End-to-End Development:** I don't just write frontend code; I build robust RESTful APIs and manage relational databases (PostgreSQL/Prisma) to ensure your application runs flawlessly.
+* **Server & Infrastructure:** Experience deploying, optimizing, and troubleshooting applications on Linux VPS environments. I ensure your product is live, secure, and performant.
+* **Business-Oriented Engineering:** With a background in Management and ongoing studies in Electronic Engineering, I understand both the business logic and the deep technical requirements of complex software.
+* **Problem Solving:** Dedicated to writing clean, scalable code that solves real-world bottlenecks, whether it's an internal management dashboard (like Hive) or a financial automation tool (like Facture).
 
 ---
 
 ### 💻 Technical Arsenal
 
-**Architecture & Backend:** System Design, API Development, Web Scraping, Automation Scripts  
-**Frontend & Mobile:** Web Development, Mobile Interfaces (React Native/TypeScript)  
-
+* **Languages:** JavaScript (TypeScript), PHP
+* **Frontend & Mobile:** React.js, Next.js, React Native
+* **Backend:** Node.js, REST API Development
+* **Database & ORM:** PostgreSQL, Prisma ORM
+* **Infrastructure & Tools:** Linux VPS Deployment, Git, Firebase, Figma, Cloud Computing
 
 ---
 
-### 📊 Featured Work & Capabilities
+### 📊 Highlighted Capabilities
 
-| Project Scope | Technologies | Client Value |
+| Focus Area | Technologies | What I Deliver |
 | :--- | :--- | :--- |
-| **Facture Platform** | Web Scraping, Automation | Automating tedious financial and tax payments by interfacing directly with government portal systems. |
-| **Hive Management** | Full-stack architecture | Scalable, modular system designed for institutional administration and financial tracking. |
-| **Action Game Mechanics** | Unity, C# | Custom `Physics.OverlapSphere` combat logic and highly responsive third-person controllers. |
+| **Full Stack Platforms** | React, Node.js, PostgreSQL | Architecture and development of complete SaaS products (e.g., *Hive* - institutional & financial management). |
+| **Mobile Applications** | React Native, TypeScript | Cross-platform mobile solutions designed for performance and excellent UX. |
+| **System Automation** | Node.js, APIs | Engineering automated workflows and platforms (e.g., *Facture* - financial management platform in active development). |
 
-*(Note: Some proprietary SaaS source code is private. Contact me directly for architecture demonstrations and case studies).*
+*(Note: Some client work and proprietary systems remain private. I am happy to discuss my architectural approaches during an interview).*
 
 ---
 
-### 🤝 Let's work together!
+### 🌍 Community & Leadership
 
-I am currently accepting new freelance projects. If you need a developer who thinks critically about system architecture rather than just writing code, let's talk.
+Beyond writing code, I am an active Community Ambassador at **MOZDEVZ**, coordinating developer teams and organizing tech events, hackathons, and webinars to foster digital innovation.
+
+---
+
+### 🤝 Let's build something great!
+
+If you need a reliable developer who owns the process from the database schema to the final VPS deployment, let's connect.
 
 [![Upwork](https://img.shields.io/badge/Hire_me_on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](LINK_PARA_O_TEU_UPWORK)
 [![Fiverr](https://img.shields.io/badge/Hire_me_on-Fiverr-00b22d?style=for-the-badge&logo=fiverr&logoColor=white)](LINK_PARA_O_TEU_FIVERR)
 [![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/acrisiodejesus)
 
-📩 **Email:** [Teu Email Profissional]
+📩 **Email:** acrisiodejesus@gmail.com
