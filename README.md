@@ -19,7 +19,7 @@ Currently available for international freelance opportunities on **Upwork** and 
 
 ### 💻 Technical Arsenal
 
-* **Languages:** JavaScript (TypeScript), PHP
+* **Languages:** JavaScript (TypeScript)
 * **Frontend & Mobile:** React.js, Next.js, React Native
 * **Backend:** Node.js, REST API Development
 * **Database & ORM:** PostgreSQL, Prisma ORM
