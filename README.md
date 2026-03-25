@@ -4,7 +4,7 @@
 
 I am a Full Stack Software Engineer based in Mozambique, building production-ready web and mobile applications since 2022. I specialize in taking projects from concept to deployment, focusing on maintainable architecture, scalable APIs, and seamless user experiences.
 
-Currently available for international freelance opportunities on **Upwork** and **Fiverr**.
+Currently available for international opportunities.
 
 ---
 
