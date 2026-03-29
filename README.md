@@ -49,7 +49,7 @@ Beyond writing code, I am an active Community Ambassador at **MOZDEVZ**, coordin
 
 If you need a reliable developer who owns the process from the database schema to the final VPS deployment, let's connect.
 
-[![Upwork](https://img.shields.io/badge/Hire_me_on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](LINK_PARA_O_TEU_UPWORK)
+[![Upwork](https://img.shields.io/badge/Hire_me_on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~010ae73f246a0cf746)
 [![Fiverr](https://img.shields.io/badge/Hire_me_on-Fiverr-00b22d?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/sellers/acrisio45)
 [![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/acrisiodejesus)
 
